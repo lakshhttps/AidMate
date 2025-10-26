@@ -1,0 +1,115 @@
+[
+  {
+    "title": "Burns",
+    "symptoms": "Redness, swelling, blisters, pain.",
+    "dos": [
+      "Cool the burn with running water for 10-20 minutes.",
+      "Remove tight items like rings or watches before swelling starts.",
+      "Cover with a clean, non-stick dressing."
+    ],
+    "donts": [
+      "Do not apply butter, toothpaste, or oil.",
+      "Do not pop blisters.",
+      "Do not use ice directly on the burn."
+    ],
+    "source": "https://www.redcross.org.uk/first-aid/learn-first-aid/burns"
+  },
+  {
+    "title": "Nosebleed",
+    "symptoms": "Bleeding from one or both nostrils.",
+    "dos": [
+      "Sit up straight and lean forward slightly.",
+      "Pinch the soft part of the nose for 10 minutes.",
+      "Apply a cold compress to the nose bridge."
+    ],
+    "donts": [
+      "Do not tilt the head back.",
+      "Do not pack the nose with tissue or cotton."
+    ],
+    "source": "https://www.mayoclinic.org/first-aid/first-aid-nosebleeds/basics/art-20056683"
+  },
+  {
+    "title": "Choking",
+    "symptoms": "Unable to speak, breathing difficulty, clutching throat.",
+    "dos": [
+      "Encourage coughing if the person can breathe.",
+      "Perform 5 back blows between shoulder blades.",
+      "If unsuccessful, perform Heimlich maneuver (abdominal thrusts)."
+    ],
+    "donts": [
+      "Do not slap the back when the person is coughing strongly.",
+      "Do not attempt mouth sweeps blindly."
+    ],
+    "source": "https://www.redcross.org.uk/first-aid/learn-first-aid/choking"
+  },
+  {
+    "title": "Heart Attack",
+    "symptoms": "Chest pain, shortness of breath, sweating, nausea.",
+    "dos": [
+      "Call emergency services immediately.",
+      "Help the person sit comfortably and stay calm.",
+      "Loosen tight clothing and give aspirin if not allergic."
+    ],
+    "donts": [
+      "Do not give food or water.",
+      "Do not ignore mild chest pain—it can worsen."
+    ],
+    "source": "https://www.nhs.uk/conditions/heart-attack/"
+  },
+  {
+    "title": "Fainting",
+    "symptoms": "Dizziness, temporary loss of consciousness.",
+    "dos": [
+      "Lay the person on their back and elevate legs.",
+      "Loosen tight clothing.",
+      "Check breathing and response."
+    ],
+    "donts": [
+      "Do not splash water on their face.",
+      "Do not make them stand quickly after recovery."
+    ],
+    "source": "https://www.mayoclinic.org/first-aid/first-aid-fainting/basics/art-20056606"
+  },
+  {
+    "title": "Snake Bite",
+    "symptoms": "Puncture wounds, swelling, pain, nausea.",
+    "dos": [
+      "Keep the person still and calm.",
+      "Immobilize the bitten limb below heart level.",
+      "Call emergency help immediately."
+    ],
+    "donts": [
+      "Do not try to suck out the venom.",
+      "Do not apply ice or a tourniquet."
+    ],
+    "source": "https://www.who.int/news-room/fact-sheets/detail/snakebite-envenoming"
+  },
+  {
+    "title": "Severe Bleeding",
+    "symptoms": "Open wound, blood loss, dizziness.",
+    "dos": [
+      "Apply firm pressure with a clean cloth.",
+      "Elevate the wound above heart level if possible.",
+      "Keep applying pressure until bleeding stops."
+    ],
+    "donts": [
+      "Do not remove deeply embedded objects.",
+      "Do not wash severe wounds."
+    ],
+    "source": "https://www.redcross.org.uk/first-aid/learn-first-aid/bleeding"
+  },
+  {
+    "title": "Heatstroke",
+    "symptoms": "Hot skin, confusion, rapid pulse, fainting.",
+    "dos": [
+      "Move the person to a cool place.",
+      "Remove excess clothing.",
+      "Cool with water, ice packs, or wet cloths."
+    ],
+    "donts": [
+      "Do not give alcohol or caffeine.",
+      "Do not immerse in ice-cold water suddenly."
+    ],
+    "source": "https://www.cdc.gov/disasters/extremeheat/warning.html"
+  }
+]
